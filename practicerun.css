@@ -1,0 +1,12 @@
+nav {
+    height: 80px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navlinks{
+    text-decoration: none;
+    color: blueviolet;
+}
